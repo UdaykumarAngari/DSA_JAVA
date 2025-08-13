@@ -138,3 +138,8 @@ n = 4, x = 1
 
 ### `Notes`
 This problem is essentially a constrained combination sum problem where each candidate number is raised to a fixed power. The recursion explores all possibilities, and memoization ensures that we do not re-solve the same subproblem multiple times.
+
+
+## References
+- [LeetCode 2787. Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/)
+- Date : 12-08-2025
