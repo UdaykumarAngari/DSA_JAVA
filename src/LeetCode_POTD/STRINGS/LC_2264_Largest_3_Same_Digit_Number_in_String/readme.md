@@ -1,7 +1,3 @@
-Of course\! Here is the updated `README.md` file, now including the problem constraints.
-
------
-
 # `LeetCode` 2264: `Largest` `3-Same-Digit` `Number` in `String`
 
 ## `Problem` `Description`
