@@ -13,4 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0761-special-binary-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0761-special-binary-string) |
+## Sorting
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
