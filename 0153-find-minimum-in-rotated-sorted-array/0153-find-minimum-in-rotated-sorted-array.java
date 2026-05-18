@@ -3,18 +3,33 @@ class Solution {
 
         int low = 0, high = nums.length - 1;
 
-        while(low < high){
+        int ans = Integer.MAX_VALUE;
 
-            int mid = (low + high) / 2;
+        while(low <= high){
 
-            if(nums[mid] > nums[high]){
+            // already sorted
+            if(nums[low] <= nums[high]){
+                ans = Math.min(ans, nums[low]);
+                break;
+            }
+
+            int mid = low + (high - low) / 2;
+
+            // left sorted
+            if(nums[low] <= nums[mid]){
+
+                ans = Math.min(ans, nums[low]);
+
                 low = mid + 1;
             }
             else{
-                high = mid;
+
+                ans = Math.min(ans, nums[mid]);
+
+                high = mid - 1;
             }
         }
 
-        return nums[low];
+        return ans;
     }
 }
