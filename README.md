@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
