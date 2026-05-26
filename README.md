@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0761-special-binary-string) |
 | [1021-remove-outermost-parentheses](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1021-remove-outermost-parentheses) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0242-valid-anagram) |
 | [0761-special-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0242-valid-anagram) |
 | [1980-find-unique-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Backtracking
