@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0162-find-peak-element) |
