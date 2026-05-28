@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0696-count-binary-substrings) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0761-special-binary-string) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0761-special-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0761-special-binary-string) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0876-middle-of-the-linked-list) |
