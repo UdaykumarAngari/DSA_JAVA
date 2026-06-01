@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0493-reverse-pairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0039-combination-sum) |
+| [0216-combination-sum-iii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0216-combination-sum-iii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
 ## Binary Search
