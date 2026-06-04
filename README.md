@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0079-word-search) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0216-combination-sum-iii) |
