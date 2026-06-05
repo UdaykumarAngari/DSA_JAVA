@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0242-valid-anagram) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0139-word-break](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0162-find-peak-element) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 ## Stack
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0139-word-break) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -256,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
