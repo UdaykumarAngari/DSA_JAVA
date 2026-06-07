@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0029-divide-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0029-divide-two-integers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
 |  |
