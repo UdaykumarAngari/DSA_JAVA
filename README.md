@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0137-single-number-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
