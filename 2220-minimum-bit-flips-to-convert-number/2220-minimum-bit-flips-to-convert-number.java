@@ -4,7 +4,7 @@ class Solution {
         int count = 0;
 
         while(xor != 0){
-            xor = xor & (xor - 1);
+            xor = xor & (xor - 1); // n & n-1 removes right most set bit
             count++;
         }
 
