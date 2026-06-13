@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0496-next-greater-element-i) |
@@ -307,5 +311,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
