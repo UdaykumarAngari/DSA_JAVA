@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3612-process-string-with-special-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -319,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0496-next-greater-element-i) |
 | [2104-sum-of-subarray-ranges](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2104-sum-of-subarray-ranges) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
