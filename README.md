@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2104-sum-of-subarray-ranges) |
 ## Trie
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
