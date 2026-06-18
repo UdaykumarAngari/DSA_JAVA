@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0146-lru-cache](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0328-odd-even-linked-list) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0901-online-stock-span) |
 ## Queue
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
