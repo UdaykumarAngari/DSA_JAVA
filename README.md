@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Prefix Sum
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0239-sliding-window-maximum) |
 ## Memoization
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -324,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3612-process-string-with-special-operations-i) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
