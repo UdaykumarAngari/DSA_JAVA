@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0761-special-binary-string) |
 ## Sorting
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0621-task-scheduler) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0260-single-number-iii) |
+| [0347-top-k-frequent-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0493-reverse-pairs) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0621-task-scheduler) |
@@ -257,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0621-task-scheduler) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -317,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
@@ -394,4 +401,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
