@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0876-middle-of-the-linked-list) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0621-task-scheduler) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0621-task-scheduler) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
