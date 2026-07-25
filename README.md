@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0204-count-primes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1486-xor-operation-in-an-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0139-word-break) |
 ## Enumeration
 |  |
