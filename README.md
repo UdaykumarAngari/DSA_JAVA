@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0139-word-break) |
