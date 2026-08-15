@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0761-special-binary-string) |
 | [1021-remove-outermost-parentheses](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1980-find-unique-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1463-cherry-pickup-ii) |
 ## Stack
 |  |
@@ -478,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
