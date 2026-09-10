@@ -1,4 +1,7 @@
 # Write your MySQL query statement below
+
+#cross join creates cartesian of tables
+
 select s.student_id, s.student_name, sub.subject_name, COUNT(e.subject_name) as attended_exams
 from students as s
 cross join subjects as sub
