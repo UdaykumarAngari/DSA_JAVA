@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3536-maximum-product-of-two-digits](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3536-maximum-product-of-two-digits) |
+| [3870-count-commas-in-range](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3870-count-commas-in-range) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
