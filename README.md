@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3612-process-string-with-special-operations-i) |
 ## Divide and Conquer
 |  |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3612-process-string-with-special-operations-i) |
 ## Monotonic Queue
 |  |
