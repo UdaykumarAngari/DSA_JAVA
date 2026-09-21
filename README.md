@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3524-find-x-value-of-array-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3524-find-x-value-of-array-i) |
 | [3731-find-missing-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1486-xor-operation-in-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3524-find-x-value-of-array-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3870-count-commas-in-range) |
 ## Heap (Priority Queue)
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0435-non-overlapping-intervals) |
 | [1143-longest-common-subsequence](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1463-cherry-pickup-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
 |  |
 | ------- |
