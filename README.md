@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0137-single-number-ii) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0205-isomorphic-strings) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
