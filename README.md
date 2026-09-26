@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0242-valid-anagram) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0137-single-number-ii) |
