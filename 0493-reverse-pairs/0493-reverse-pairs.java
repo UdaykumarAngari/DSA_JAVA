@@ -14,6 +14,7 @@ class Solution {
                 temp[k++]=nums[right++];
             }
         }
+        
         while(left<=mid){
             //temp.add(nums[left++]);
             temp[k++]=nums[left++];
