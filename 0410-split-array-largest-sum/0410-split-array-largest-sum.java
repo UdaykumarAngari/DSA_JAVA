@@ -18,6 +18,8 @@ class Solution {
         }
         return partitions;
     }
+
+
     public int splitArray(int[] nums, int k) {
 
         int low = 0, high = 0;
@@ -42,7 +44,7 @@ class Solution {
             if(countPartitions(nums,mid)<=k){
 
                 high = mid - 1;
-
+ 
             }
             else {
 
