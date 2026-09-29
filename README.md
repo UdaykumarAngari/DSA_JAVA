@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0204-count-primes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1486-xor-operation-in-an-array) |
+| [1922-count-good-numbers](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1922-count-good-numbers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3524-find-x-value-of-array-i) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1922-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
