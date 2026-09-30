@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
