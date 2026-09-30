@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3731-find-missing-elements) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1980-find-unique-binary-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2104-sum-of-subarray-ranges) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0621-task-scheduler) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Prefix Sum
 |  |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1732-find-the-highest-altitude](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1732-find-the-highest-altitude) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## String Matching
 |  |
