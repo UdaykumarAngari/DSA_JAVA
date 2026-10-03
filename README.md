@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1020-number-of-enclaves) |
 | [1463-cherry-pickup-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [1020-number-of-enclaves](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1020-number-of-enclaves) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1096-brace-expansion-ii) |
 ## Binary Search Tree
 |  |
