@@ -1,7 +1,7 @@
 class Solution {
     public String removeOuterParentheses(String s) {
         StringBuilder result = new StringBuilder();  
-        // Initialize nesting level counter
+
         int level = 0;  
 
         // Traverse the string
