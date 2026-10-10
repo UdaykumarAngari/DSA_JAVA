@@ -19,8 +19,7 @@ class Solution {
                 maxi = nums[i][i];
             }
 
-            if (nums[i][n - i - 1] > maxi &&
-                isPrime(nums[i][n - i - 1])) {
+            if (nums[i][n - i - 1] > maxi && isPrime(nums[i][n - i - 1])) {
                 maxi = nums[i][n - i - 1];
             }
         }
