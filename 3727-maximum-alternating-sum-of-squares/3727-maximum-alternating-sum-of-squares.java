@@ -1,6 +1,3 @@
-
-import java.util.Arrays;
-
 class Solution {
     public long maxAlternatingSum(int[] nums) {
         long[] squares = new long[nums.length];
