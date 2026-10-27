@@ -40,9 +40,10 @@ class Solution {
                 
             }
 
-            if(stack.isEmpty()){
-                stack.push(val);
-            }
+            // if(stack.isEmpty()){
+            //     stack.push(val);
+            // }
+
             stack.push(val);
 
         }
