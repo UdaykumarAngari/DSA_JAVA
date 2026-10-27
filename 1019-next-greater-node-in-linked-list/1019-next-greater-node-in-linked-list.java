@@ -35,7 +35,7 @@ class Solution {
             }
             
 
-            if(!stack.isEmpty() && stack.peek() > val){
+            if(!stack.isEmpty()){
                 result[i] = stack.peek();
                 
             }
