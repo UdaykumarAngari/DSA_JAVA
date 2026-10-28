@@ -1,40 +1,38 @@
-import java.util.*;
-
 class Solution {
+    boolean[][][] visited;
+    int ans = Integer.MAX_VALUE;
+
     public int minCost(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
 
-        Set<Integer>[][] dp = new HashSet[m][n];
+        visited = new boolean[m][n][1024];
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                dp[i][j] = new HashSet<>();
-            }
+        dfs(grid, 0, 0, 0);
+
+        return ans;
+    }
+
+    void dfs(int[][] grid, int i, int j, int xor) {
+        xor ^= grid[i][j];
+
+        if (visited[i][j][xor]) {
+            return;
         }
 
-        dp[0][0].add(grid[0][0]);
+        visited[i][j][xor] = true;
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (i == 0 && j == 0) {
-                    continue;
-                }
-
-                if (i > 0) {
-                    for (int xor : dp[i - 1][j]) {
-                        dp[i][j].add(xor ^ grid[i][j]);
-                    }
-                }
-
-                if (j > 0) {
-                    for (int xor : dp[i][j - 1]) {
-                        dp[i][j].add(xor ^ grid[i][j]);
-                    }
-                }
-            }
+        if (i == grid.length - 1 && j == grid[0].length - 1) {
+            ans = Math.min(ans, xor);
+            return;
         }
 
-        return Collections.min(dp[m - 1][n - 1]);
+        if (i + 1 < grid.length) {
+            dfs(grid, i + 1, j, xor);
+        }
+
+        if (j + 1 < grid[0].length) {
+            dfs(grid, i, j + 1, xor);
+        }
     }
 }
