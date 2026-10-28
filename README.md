@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3731-find-missing-elements) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2614-prime-in-diagonal](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2614-prime-in-diagonal) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1463-cherry-pickup-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
