@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1486-xor-operation-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1922-count-good-numbers) |
 | [2614-prime-in-diagonal](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2614-prime-in-diagonal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1732-find-the-highest-altitude) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1463-cherry-pickup-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3524-find-x-value-of-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
