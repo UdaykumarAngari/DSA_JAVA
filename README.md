@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3731-find-missing-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Tree
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3731-find-missing-elements) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Counting
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/1882-process-tasks-using-servers) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/UdaykumarAngari/DSA_JAVA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Prefix Sum
 |  |
 | ------- |
